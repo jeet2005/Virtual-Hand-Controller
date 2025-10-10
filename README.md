@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ### 3. Setup and Installation
 
 ```bash
-python virtual_controller.py
+python virtual_mandk.py
 ```
 
 A window showing your webcam feed will appear. You can now control your system with your hand!
@@ -100,4 +100,5 @@ numpy
 ##  License
 
 Licensed under the MIT License © 2025 Jeet Savaliya
+
 
