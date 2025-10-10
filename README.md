@@ -37,7 +37,7 @@ Make sure **Python 3.10 (64-bit)** is installed.
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/jeet2005/Virtual-Hand-Controller
 cd Virtual-Hand-Controller
 
 # Create and activate a virtual environment
@@ -100,3 +100,4 @@ numpy
 ##  License
 
 Licensed under the MIT License © 2025 Jeet Savaliya
+
