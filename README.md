@@ -105,7 +105,7 @@ Virtual-Hand-Controller/
 └── virtual_mandk.py    # The main Python application script
 ```
 
-## ⚙️ Configuration & Customization
+## Configuration & Customization
 
 The core logic and gesture mappings are defined within the `virtual_mandk.py` script. For advanced users and developers, customization can be done by modifying this file directly:
 
@@ -142,5 +142,6 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 -   **Issues:** Report bugs or suggest features on the [GitHub Issues page](https://github.com/jeet2005/Virtual-Hand-Controller/issues).
 -   **Author:** [jeet2005](https://github.com/jeet2005)
+
 
 
