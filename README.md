@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Project Banner](https://raw.githubusercontent.com/jeet2005/Virtual-Hand-Controller/main/assets/banner.png) <!-- TODO: Create and add an appealing project banner -->
-
 [![GitHub stars](https://img.shields.io/github/stars/jeet2005/Virtual-Hand-Controller?style=for-the-badge)](https://github.com/jeet2005/Virtual-Hand-Controller/stargazers)
 
 [![GitHub forks](https://img.shields.io/github/forks/jeet2005/Virtual-Hand-Controller?style=for-the-badge)](https://github.com/jeet2005/Virtual-Hand-Controller/network)
@@ -150,3 +148,4 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 -   **Issues:** Report bugs or suggest features on the [GitHub Issues page](https://github.com/jeet2005/Virtual-Hand-Controller/issues).
 -   **Author:** [jeet2005](https://github.com/jeet2005)
+
