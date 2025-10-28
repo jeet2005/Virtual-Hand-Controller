@@ -36,12 +36,6 @@ Designed for accessibility, interactive presentations, or simply a novel way to 
 -   **Zero-touch Interaction:** Offers a completely touch-free way to control your system.
 
 
-![Screenshot of hand tracking controlling mouse](https://raw.githubusercontent.com/jeet2005/Virtual-Hand-Controller/main/assets/screenshot-1.png)
-_Example: Hand controlling mouse cursor on screen_
-
-![Screenshot of gesture for keyboard input](https://raw.githubusercontent.com/jeet2005/Virtual-Hand-Controller/main/assets/screenshot-2.png)
-_Example: Recognized gesture triggering a keyboard event_
-
 ## Tech Stack
 
 -   **Runtime:**
@@ -148,4 +142,5 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 -   **Issues:** Report bugs or suggest features on the [GitHub Issues page](https://github.com/jeet2005/Virtual-Hand-Controller/issues).
 -   **Author:** [jeet2005](https://github.com/jeet2005)
+
 
